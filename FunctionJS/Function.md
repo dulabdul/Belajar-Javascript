@@ -4,6 +4,10 @@
 *"Function adalah kunci utama pada javascript yang membuat javascript sangat powerfull"*
 
 ***-Douglas Crockford***
+
+*"Function yang baik adalah function yang hanya mengerjarkan satu hal saja"*
+
+***-Web Progamming Unpas***
 ---
 * Sebuah sub-program/sub-routine yang dapat ***"Dipanggil"*** di bagian lain pada program
 * Merupakan struktur dasar pembentuk dari javascript
@@ -26,9 +30,21 @@ Function dapat di pecah menjadi beberapa bagian, hal ini berkaitan dengan Modula
 Agar mudah mencari Bug dalam kode program karena bentuknya dalam modul
 #### Kategori Function
 * Built-in Function
+
+
 Function yang telah disediakan oleh javascript
 * User-Defined Function
+
+
 Fcuntion yang dibuat oleh kita sendiri
 #### Pembuatan Function
 * Function Declaration
 * Function Expression
+#### Parameter & Arguments
+* Parameter
+
+
+Variabel yang ditulis dalam kurung pada saat Function dibuat, digunakan untuk menampung nilai yang dikirimkan saat Function dipanggil
+* Arguments
+
+Nilai yang dikirimkan ke parameter saat Function dipanggil
