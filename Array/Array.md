@@ -44,3 +44,31 @@ Untuk menambahkan array di awal array
 
 
 Untuk menghapus array di awal array
+* slice
+
+
+Digunakan untuk mengambil beberapa bagian dari array lama menjadi array baru
+* splice
+
+
+Menyambung/menyisipkan elemen array di tengah tengah dengan splice
+* forEach
+
+
+Untuk menampilkan atau looping seluruh isi array, mirip kaya for.Namun, lebih baik
+* map
+
+
+Mengembalikan nilai array, sedangkan forEach tidak
+* sort
+
+
+Untuk mengurutkan isi Array
+* filter
+
+
+Untuk mencari elemen pada array(bisa mengembalikan banyak nilai dan menghasilkan nilai array)
+* find
+
+Untuk mencari elemen pada array(hanya mengembalikan satu nilai dan tidak menghasilkan nilai array)
+
