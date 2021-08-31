@@ -9,7 +9,7 @@
 
 ***-Web Progamming Unpas***
 
-*"Kode program yang baik adalah kode yang dapat dibaca dan dimengerti oleh orang lain *
+*"Kode program yang baik adalah kode yang dapat dibaca dan dimengerti oleh orang lain*
 
 ***-Web Progamming Unpas***
 
