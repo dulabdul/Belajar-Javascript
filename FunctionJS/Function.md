@@ -9,6 +9,9 @@
 
 ***-Web Progamming Unpas***
 
+*"Kode program yang baik adalah kode yang dapat dibaca dan dimengerti oleh orang lain *
+
+***-Web Progamming Unpas***
 
 ---
 * Sebuah sub-program/sub-routine yang dapat ***"Dipanggil"*** di bagian lain pada program
@@ -77,3 +80,14 @@ Agar meningkatkan perfomance dari kode, seperti efekti atau tepat memilih tipe d
 
 
 Agar mudah dalam pengecekan atau maintenence 
+#### Variabel Scope(Lingkup Variabel)
+Bagaimana sebuah variabel dapat diakses oleh variabel
+##### Block Scope Vs Function Scope
+* Block Scope
+
+
+Digunakan dalam bahasa pemprogaman seperti C atau Java, Blockscope artinya per block
+* Function Scope
+
+Scope function dapat mengakses variabel global atau window, sedangkan yang diluar tidak bisa mengakses variabel yang berada di variabel function/lokal
+
