@@ -91,7 +91,7 @@ Digunakan dalam bahasa pemprogaman seperti C atau Java, Blockscope artinya per b
 
 Scope function dapat mengakses variabel global atau window, sedangkan yang diluar tidak bisa mengakses variabel yang berada di variabel function/lokal
 
-#### Rekursif/Recursion
+### Rekursif/Recursion
 sebuah fungsi yang memanggil dirinya sendiri, harus berakhir dan menghasilkan nilai
 * Base Case
 
@@ -104,3 +104,15 @@ Kondisi akhir dari rekursif yang menghasilkan nilai atau blok untuk menghentikan
 * Pencarian dan penesuluran pada struktur data list dan tree
 * Membuat deret Fibonnaci
 * Dll
+### Function Declartion Vs Funtion Expression
+#### Function Declartion
+* Lebih fleksibel(dapat dipanggil dimana pun, bisa dipanggil sblm didefinisikan atau sesudah didefiniskan)
+** Karena konsep **Hoisting**
+* Lebih mudah dipahami
+#### Function Expression
+* Harus didefinisikan terlebih dahulu baru dipanggil,tidak bisa sebaliknya
+* Lebih Powerfull
+** Sebagai Closure
+** Sebagao argumen untuk function lain
+** IIFE(Immediately Invoked Function Expression)
+ 
