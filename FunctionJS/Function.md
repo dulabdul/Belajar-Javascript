@@ -91,3 +91,16 @@ Digunakan dalam bahasa pemprogaman seperti C atau Java, Blockscope artinya per b
 
 Scope function dapat mengakses variabel global atau window, sedangkan yang diluar tidak bisa mengakses variabel yang berada di variabel function/lokal
 
+#### Rekursif/Recursion
+sebuah fungsi yang memanggil dirinya sendiri, harus berakhir dan menghasilkan nilai
+* Base Case
+
+
+Kondisi akhir dari rekursif yang menghasilkan nilai atau blok untuk menghentikan rekursif.
+* Semua looping bisa dibuat rekursifnya, tetapi tidak semua rekursif bisa dibuat loopingya
+* Contoh Implementasi Rekursif
+
+* Menggantikan looping
+* Pencarian dan penesuluran pada struktur data list dan tree
+* Membuat deret Fibonnaci
+* Dll
