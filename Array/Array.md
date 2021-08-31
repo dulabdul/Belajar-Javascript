@@ -12,7 +12,7 @@
 
 ***-Web Programming Unpas*** 
 
----
+--- 
 ### Kenapa Array?
 * Variabel jamak yang mempunyai banyak elemen dan diacu dengan nama yang sama
 * Kumpulan pasangan key dan nilai/key and value pair
@@ -20,3 +20,27 @@
 * Array pada Javascript bertipe Object
 * Array pada javascript memiliki fungsi/method length untuk menghitung jumlah elemen di dalamnya
 * Elemen pada array boleh memiliki tipe data yang berbeda
+
+### Beberapa Method Array
+* length
+
+Untuk menghitung panjang Array dimulai dari 1
+* join
+
+Untuk menggabungkan seluruh isi array dan mengubah nya dengan string
+* push(Mendorong atau memasukkan array)
+
+
+Untuk menambah array pada akhir array
+* pop(Ibarat balon peca, lalu hilang balonnya)
+
+
+Untuk menghapus array di akhir array
+* unshift
+
+
+Untuk menambahkan array di awal array
+* shift
+
+
+Untuk menghapus array di awal array
