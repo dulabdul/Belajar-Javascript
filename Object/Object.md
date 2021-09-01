@@ -24,3 +24,6 @@
 * Function Declaration
 * Constructor Function(Keyword new)
 * object.create();
+
+### this
+this adalah keyword spesial yang ada pada saat pembuatan function/object
