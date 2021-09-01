@@ -1,3 +1,4 @@
+// OBJECT
 var mahasiswa = {
 	nama : "abdul",
 	umur : 18,
