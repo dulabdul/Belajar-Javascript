@@ -19,4 +19,8 @@
 ***-People***
 
 ---
-
+### Membuat Object Pada Javascript
+* Object Literal
+* Function Declaration
+* Constructor Function(Keyword new)
+* object.create();
